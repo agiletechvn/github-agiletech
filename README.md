@@ -2,4 +2,4 @@
 
 Agiletech + Github = ❤️.
 
-![Screenshot of the Chrome extension](github-agiletech.png.jpg)
+![Screenshot of the Chrome extension](github-agiletech.png)
