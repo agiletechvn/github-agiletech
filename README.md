@@ -1,6 +1,5 @@
-# Github XP
-Microsoft + Github = ❤️. Make it official by giving your Github experience some Windows XP flare.
+# Github Agiletech Viet Nam
 
-**➡️ One-click install from [Google Chrome Web Store](https://chrome.google.com/webstore/detail/ipjbabcpngaonjaedhpfodmjaklmdfdo/)**
+Agiletech + Github = ❤️.
 
-![Screenshot of the Chrome extension](https://raw.githubusercontent.com/martenbjork/github-xp/master/screenshot.jpg)
+![Screenshot of the Chrome extension](github-agiletech.png.jpg)
